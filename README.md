@@ -1,4 +1,4 @@
-# School Affairs system
+# School Affairs System
 A system of a school affairs where the users can add, view, edit, delete, and update students in the system.
 In addition to register them to new departments, change their activity (if they left school school for example) andmore.
 
